@@ -56,7 +56,7 @@ const SignIn = () => {
         {/* Footer */}
         <div className="text-center text-sm text-gray-400 mt-4">
           Don't have an account?{" "}
-          <a href="/signup" className="text-blue-400 hover:text-blue-300">
+          <a href="/sign-up" className="text-blue-400 hover:text-blue-300">
             Sign Up here
           </a>
         </div>
